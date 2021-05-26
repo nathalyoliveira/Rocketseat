@@ -1,2 +1,2 @@
 # Rocketseat
- Repositório dos códigos de aulas da Rocketseat
+ Repositório dos códigos desenvolvidos durante as aulas da Rocketseat.
